@@ -1,0 +1,40 @@
+.presentation {
+  margin-top: 60px;
+  margin-left: 5%;
+  margin-right: 5%;
+
+  &__title {
+    display: flex;
+    justify-content: center;
+    font-family: Roboto Flex, sans-serif;
+    font-size: 40px;
+    margin-bottom: 40px;
+  }
+  &__image img {
+    width: 25%;
+    height: 50%;
+    border-radius: 50%;
+    float: right;
+  }
+  &__intro {
+    font-size: 24px;
+  }
+  &__body {
+    font-size: 20px;
+    margin-top: 30px;
+    &__title {
+      font-size: 30px;
+      margin-top: 30px;
+    }
+    &__explication {
+      margin-top: 30px;
+      &__raison {
+        margin-top: 30px;
+      }
+    }
+  }
+}
+
+// img{
+//   width: 100px;
+// }

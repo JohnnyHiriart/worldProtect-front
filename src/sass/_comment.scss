@@ -1,0 +1,41 @@
+.comment {
+  margin-top: 200px;
+  height: 3000px;
+
+  &__title {
+    margin-left: 20%;
+    font-family: Roboto Flex, sans-serif;
+    font-size: 50px;
+    margin-bottom: 40px;
+    margin-top: 100px;
+  }
+  &__card {
+    width: 60%;
+    height: 100px;
+    margin: 40px;
+    position: relative;
+    box-shadow: 0px 10px 30px black;
+    background: rgba(137, 196, 244, 0.5);
+
+    &__paragraph {
+      margin: 0;
+
+      position: relative;
+      top: 13px;
+      text-align: center;
+      font-family: "Lato";
+      font-size: 15px;
+    }
+  }
+}
+
+// pour la modal
+
+.form__btn {
+  padding: 10px 14px;
+  font-size: 18px;
+  margin: 100px auto;
+  display: block;
+  min-width: 150px;
+  cursor: pointer;
+}
