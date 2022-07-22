@@ -1,9 +1,11 @@
 nav {
-  position: fixed;
+  // position: absolute;
+
   width: 100%;
+
   display: flex;
   align-items: center;
-  padding: 15px 25px;
+  padding: 15px 30px;
   background: #fafafa;
   box-shadow: inset 0px -1px 0px #c5c5c6;
 }
