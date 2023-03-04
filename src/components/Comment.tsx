@@ -98,7 +98,6 @@ const Comment = () => {
           .map(({ id, pseudo, date, commentText }) => (
             <div className="comment__card" key={id}>
               <div className="comment__card__paragraph">
-               
                 <p> {pseudo}</p>
                 <> {date}</>
 
