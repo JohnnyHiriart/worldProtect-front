@@ -12,7 +12,7 @@ const Presentation = () => {
         Je suis Johnny, savonnier amateur à mes heures perdues.
         <br />
         <br />
-        Faire ton propre savon t’intéresse ? Moi aussi ! Depuis plusieurs
+        Faire ton propre savon t’intéresse ? Moi aussi !! Depuis plusieurs
         années, je fabrique des savons artisanaux dans ma cuisine, via la
         méthode de la saponification à froid (SAF) et bientôt via d’autres
         méthodes.
