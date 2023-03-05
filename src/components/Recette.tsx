@@ -38,7 +38,7 @@ const Recette = () => {
           servir !!! c&apos;est très important ! cette méthode de saponification
           à froid est longue car nous laissons naturellement la fusion avec la
           lessive de soude opérer. Sans ce temps de repos, il serait dangereux
-          pour le corps car trop acide !
+          pour le corps car trop acide !!
         </div>
       </div>
     </div>
