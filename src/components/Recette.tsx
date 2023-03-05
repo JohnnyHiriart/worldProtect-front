@@ -13,7 +13,7 @@ const Recette = () => {
       </div>
       <div className="recette__body">
         <div className="recette__body__image">
-          <img src="../../src/assets/savon_recette.jpg" alt="" />
+          <img src="../../public/assets/savon_recette.jpg" alt="" />
         </div>
         <div className="recette__body__ingredients">
           Pour réaliser cette recette, il vous faudra :<br />
