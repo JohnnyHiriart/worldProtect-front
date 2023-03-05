@@ -35,7 +35,7 @@ const Navbar = () => {
         aria-label="visit homepage"
         aria-current="page"
       >
-        <img src="../../public/assets/logo.svg" alt="" />
+        <img src="../../public/assets/img/logo.svg" alt="" />
         <span>WorldProtect</span>
       </a>
 

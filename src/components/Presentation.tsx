@@ -4,7 +4,7 @@ const Presentation = () => {
   return (
     <div className="presentation">
       <div className="presentation__image">
-        <img src="../../public/assets/IMG_20220325_104207.jpg" alt="moi" />
+        <img src="../../public/assets/img/IMG_20220325_104207.jpg" alt="moi" />
       </div>
       <div className="presentation__title">Mais qui suis-je ???</div>
 
